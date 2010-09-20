@@ -1,0 +1,20 @@
+{
+  "name": "Streamie",
+  "description": "Streamie Twitter client",
+  "version": "1",
+  "app": {
+    "urls": [
+      "http://streamie.org/"
+    ],
+    "launch": {
+      "web_url": "http://streamie.org/"
+    }
+  },
+  "icons": {
+    "24": "24.png",
+    "128": "128.png"
+  },
+  "permissions": [
+    "notifications"
+  ]
+}
