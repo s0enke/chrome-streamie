@@ -1,0 +1,11 @@
+Simple google chrome hosted app manifest for streamie
+
+Tested with Chrome 7 (dev)
+
+Steps to install:
+
+ 1. checkout git repo
+ 2. follow steps 3-8 from http://code.google.com/chrome/apps/docs/developers_guide.html#installing
+
+ Enjoy!
+
